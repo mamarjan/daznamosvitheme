@@ -1,0 +1,87 @@
+
+# comment
+# something 
+
+msgid "Your <strong>Right to Know</strong>"
+msgstr "Vaše <strong> pravo da znate!</strong>"
+
+msgid "Every citizen has the right to access information held by public bodies. <strong>By law, they have to respond</strong>"
+msgstr "Svaki građanin ima pravo da od organa javne vlasti zatraži informacije od javnog značaja.<strong> Po zakonu, onu su dužni da odgovore</strong> "
+
+msgid "Find out more about Freedom of Information."
+msgstr "Saznajte više o pristupu informacijama od javnog značaja."
+
+msgid "Does it cost me anything to make a request?"
+msgstr "Da li me podnošenje zahteva za pristup informacijama od javnog značaja košta nešto?"
+
+msgid "First, type in the <strong>name of the UK public authority</strong> you'd\\n like information from. <strong>By law, they have to respond</strong>\\n           (<a href=\"{{url}}\">why?</a>)."
+msgstr "Najpre, upišite <strong>naziv organa javne vlasti</strong> od koga\\n biste želeli da zatražite informaciju. <strong>Po zakonu, oni moraju da vam odgovore</strong>\\n  (<a href=\"{{url}}\">zašto?</a>)."
+
+msgid "Does it cost me anything to make a request.text"
+msgstr "Evo šta o tome kaže Poverenik za informacije od javnog značaja. Zakon o slobodnom pristupu informacijama od javnog značaja predviđa da je obaveštenje o tome da li organ vlasti poseduje određenu informaciju besplatno. Zakon je izričit i u pogledu toga da je uvid u dokument koji sadrži traženu informaciju takođe besplatan. Za izradu i dostavljanje kopije dokumenta predviđena je obaveza plaćanja naknade nužnih troškova. Organ vlasti može odlučiti da tražioca informacije oslobodi plaćanja nužnih troškova ako  visina ne prelazi iznos od 50,00 dinara, a posebno u slučaju dostavljanja kraćih dokumenata putem elektronske pošte ili telefaksa. Više o ovoj temi saznajte ovde:"
+
+msgid "How quickly will I get a response.text"
+msgstr "Usled izuzetno opravdanih razloga, rok za pružanje odgovra može biti 40 dana od podnošenja zahteva, ali je organ kome je zahtev upućen dužan da vas o tome odmah po dobijanju zahteva obavesti. Za informacije od značaja za zaštitu života ili slobode nekog lica ili ugrožavanje ili zaštitu zdravlja stanovništva i životne sredine, rok iznosi 48 sati."
+
+msgid "What if I never get a response?"
+msgstr "Šta u slučaju da u zakonski predviđenom roku ne dobijem nikakav odgovor?"
+
+msgid "What if I never get a response.text"
+msgstr "Postoji nekoliko stvari koje bismo vam preporučili da učinite:<ul><li>Možete poslati još jednu poruku organu kome ste uputili zahtev u kojoj ćete ga samo podsetiti da krši Zakon time što nije pružio odgovor u predviđenom roku.</li><li>Može se dogoditi da organ kome ste uputili zahtev zaista nije dobio vaš e mail usled -spam filtera- koje koristi njegov računarski server. Ukoliko se vaš zahtev vidi na platform DaZnamoSvi, a e-mail sa zahtevom nema u inboxu organa, onda se najverovatnije radi o postojanju spam filtera. U tom slučaju, preporučujemo vam da telefonirate organu i ljubazno ga zamolite da još jednom proveri svoj inbox ili junk / spam mail, pošto se može desiti da je vaš zahtev upravo tu stigao usled pomenutih filtera.</li><li>Ukoliko i nakon telefonskog poziva ne dobijete nikakav odgovor, možete se žaliti Povereniku za informacije od javnog značaja. Molimo vas da pročitate deo:</li></ul>"
+
+msgid "I'd like to keep my request secret! (At least until I publish my story)"
+msgstr "Želeo bih da moj zahtev ne bude objavljen!"
+
+msgid "I'd like to keep my request secret!.text"
+msgstr "DaZnamoSvi je trenutno samo namenjen za javne zahteve. Svi odgovori koje dobijemo se automatski objavljuju na platform i svako može da ih pročita. Ukoliko želite da vaš zahtev ne bude objavljen, najbolje je da lično kontaktirate organ koji infoemaciju poseduje. "
+
+msgid "I made a request off the site, how do I upload it to the archive?"
+msgstr "Uputio sam zahtev za pristup informaciji od javnog značaja, mimo platform DaZnamoSvi. Kako mogu da uploadujem ovaj zahtev u vašu arhivu?"
+
+msgid "I made a request off the site, how do I upload it to the archive.text"
+msgstr "DaZnamoSvi jednim svojim delom predstavlja arhivu zahteva koji su upućeni putem ove platform. Nemamo ambicije da budemo arhiva svih zahteva za pristup informacijama od javnog značaja. Jednostavno, ne bismo mogli da proverimo da li je odgovor na zahtev zaista došao od organa kome je i upućen. Ukoliko vam je veoma značajno da vaš zahtev za pristup informaciji od javnog značaja bude obavljen na platforme DaZnamoSvi, uvek možete da ponovo pošaljete isti zahtev preko ove platforme."
+
+msgid "Who gets to see my email address?"
+msgstr "Ko može da vidi moju email adresu?"
+
+msgid "Who gets to see my email address.text"
+msgstr "Mi nećemo otkrivati vašu email adresu nikome, sem ukoliko smo u obavezi da to učinimo po zakonu ili ukoliko nas vi zamolite. Ovo takođe uključuje i organ kome ste uputili zahtev preko platforme DaZnamoSvi. Oni će moći jedino da vide da im je zahtev stigao sa email adrese @daznamosvi.rs koja se specifično generiše za vaš zahtev. U  slučaju da šaljete email drugom korisniku platforme DaZnamoSvi, on će moći da vidi vašu email adresu. Prilikom slanja emaila, bićete upozoreni da će se ovo dogoditi. "
+
+msgid "Will you send nasty, brutish spam to my email address?"
+msgstr "Da li ćete slati spam mailove na moju adresu nakon registracije?"
+
+msgid "Will you send nasty, brutish spam to my email address.text"
+msgstr "Ne! Nakon registracije na platformu DaZnamoSvi, jedino ćemo vam poslati emailove koji se odnose na zahteve koje ste uputili, email obaveštenje da ste se registrovali na platform ili u drugim slučajevima koje ste specifično odobrili. Kao što je već napisano, nećemo davati nikom drugom vašu email adresu, osim ukoliko nismo u zakonskoj obavezi da to učinimo ili ukoliko nam vi to ne kažete."
+
+msgid "Why will my name and my request appear publicly on the site?"
+msgstr "Da li će moje ime i moj zahtev biti javno objavljeni na platformi DaZnamoSvi?"
+
+msgid "Why will my name and my request appear publicly on the site.text"
+msgstr "Mi objavljujemo vaš zahtev na internet kako bi svako mogao da pročita i iskoristi informaciju koju ste dobili. Obično, ne brišemo zahteve (vise detalja). Vaše ime je sadržano u vašem zahtevu, te mora takođe da bude objavljeno. To je jedini ispravan nači, s obzirom da ćemo na platform objaviti i puno ime i prezime službenika koji odgovori na vaš zahtev. Korišćenje pravog imena i prezimena će takođe pomoći ljudima koji stupe sa vama u kontakt kako bi vam pomogli u vezi sa vašim istraživanjem ili koji žele da sprovode kampanju sa vama. Po Zakonu, prilikom podnošenja zahteva za pristup informacijama od javnog značaja, morate koristiti pravo ime i prezime da bi zahtev bio validan."
+
+msgid "They have asked for my postal address!"
+msgstr "Pitali su me za moju kućnu adresu!"
+
+msgid "They have asked for my postal address.text"
+msgstr "Ukoliko vam organ javne vlasti kome ste uputili zahtev zatraži vašu kućnu adresu, slobodno odgovorite citirajući deo sa internet prezentacije Poverenika za informacije od javnog značaja:<p><b>Da li zahtev za pristup informacijama od javnog značaja dostavljen elektronskom poštom obavezuje onoga ko treba da da informaciju, odnosno organe javne vlasti? (oktobar 2005.g.)
+Odgovor:</b>
+Komunikacija elektronskom poštom sa organima javne vlasti u pogledu ostvarivanja prava na pristup informacijama od javnog značaja je dozvoljena i obavezujuća, s tim što takav način komunikacije može otežavati dokazivanje prijema zahteva kada se ne potvrdi njegov prijem, a to se ospori u postupku po žalbi.</p>"
+
+msgid "No no, they need a postal address to send a paper response!"
+msgstr "Ne, ne…Njima zaista treba moja kućna adresa kako bi mi poslali traženu informaciju u vidu fotokopije."
+
+msgid "No no, they need a postal address to send a paper response.text"
+msgstr "Ukoliko organ javne vlasti kome ste podneli zahtev poseduje jedino kopiju informaciju koju ste tražili na papiru, mogu vam tražiti vašu kućnu adresu kako bi vam dostavili traženu informaciju. U ovom slučaju možete zamoliti službenika organa da vam skenira i pošalje document. Ukoliko ovo ne urodi plodom i vi želite da date svoju kućnu adresu ali ne javno, obeležite svoj zahtev kao -Organ će odgovoriti regularnom poštom- kako biste dobili email adresu koju ćete koristiti u ove svrhe."
+
+msgid "Can you delete my requests, or alter my name?"
+msgstr "Da li možete da obrišete moje zahteve ili izmenite moje ime?"
+
+msgid "Can you delete my requests, or alter my name.text"
+msgstr "Platforma DaZnamoSvi je stalne javna arhiva zagteva za informacijama od javnog značaja, upućenim preko ove platform. Čak i ukoliko ne smartate da vam je odgovor na vaš zahtev koji je objavljen na platform, koristan, lako može biti interesantnan za druge građane. Zbog ovog razloga, ne brišemo zahteve."
+
+msgid "Can you take down personal information about me?"
+msgstr "Da li možete da uklonite lične informacije o meni sa platforme DaZnamoSvi?"
+
+msgid "Can you take down personal information about me.text"
+msgstr "Ukoliko primetite bilo koju ličnu informaciju o vama na platform DaZnamoSvi koju biste želeli da uklonite ili sakrijtete, pišite nam koristeći DaZnamoSvi i naznačite tačno, za koju informaciju smatrate da je problematična i zbog čega i u kom delu platform se tačno pojavljuje. Ukoliko se radi o osetljivim ličnim podacima koji su nenamerno objavljeni, obično ćemo ih ukloniti. Normalno, jedino uzimamo u obzir one molbe za uklanjanje ličnih podatka koje dolaze od pojedinica koji ih se tiču. Međutim, ukoliko je reč o ekstremnim slučajevima."
+

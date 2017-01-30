@@ -1,0 +1,20 @@
+<div id="footer">
+    <%= link_to _("Contact {{site_name}}", :site_name => site_name), help_contact_path %>
+| <img src="/images/twitter-16.png" alt="twitter icon" class="twitter-icon"> <a href="https://twitter.com/<%= AlaveteliConfiguration::twitter_username %>"><%= _("Follow us on twitter") %></a>
+| <img src="/images/facebook.png" alt="facebook icon" class="twitter-icon"> <a href="https://www.facebook.com/pages/Da-znamo-svi/511449048959378"> <%= _("Like us on facebook") %></a>
+| <img src="/images/zi.png" alt="facebook icon" class="twitter-icon"> <a href="http://zainicijativa.org"> <%= _("Zajecar Initiative") %></a>
+
+<%= render :partial => 'general/credits' %>
+</div>
+<div class="after-footer">&nbsp;</div>
+<script type="text/javascript">
+	if(document.getElementById("user_locale_switcher").children[0].children[0].getAttribute('href') == '/'){
+document.getElementById("user_locale_switcher").children[0].children[0].setAttribute('href', "/#en");
+}
+if(String(window.location).indexOf("/sr") < 1 &&
+   String(window.location).indexOf("/sq") < 1 &&
+   String(window.location).indexOf("/hu_HU") < 1 ){		
+	document.getElementById("logo").setAttribute('href', "http://daznamosvi.rs#en");
+	document.getElementById("navigation").children[0].children[0].setAttribute('href', "/#en");
+}
+</script>

@@ -1,0 +1,17 @@
+msgid "Your <strong>Right to Know</strong>"
+msgstr "Vaše <strong> pravo da znate!</strong>"
+
+msgid "Every citizen has the right to access information held by public bodies. <strong>By law, they have to respond</strong>"
+msgstr "Svaki građanin ima pravo da od organa javne vlasti zatraži informacije od javnog značaja.<strong> Po zakonu, onu su dužni da odgovore</strong> "
+
+msgid "Find out more about Freedom of Information."
+msgstr "Saznajte više o pristupu informacijama od javnog značaja."
+
+msgid "Does it cost me anything to make a request?"
+msgstr "Da li me podnošenje zahteva za pristup informacijama od javnog značaja košta nešto?"
+
+msgid "First, type in the <strong>name of the UK public authority</strong> you'd\\n like information from. <strong>By law, they have to respond</strong>\\n           (<a href=\"{{url}}\">why?</a>)."
+msgstr "Najpre, upišite <strong>naziv organa javne vlasti</strong> od koga\\n biste želeli da zatražite informaciju. <strong>Po zakonu, oni moraju da vam odgovore</strong>\\n  (<a href=\"{{url}}\">zašto?</a>)."
+
+msgid "Does it cost me anything to make a request.text"
+msgstr "Evo šta o tome kaže Poverenik za informacije od javnog značaja. Zakon o slobodnom pristupu informacijama od javnog značaja predviđa da je obaveštenje o tome da li organ vlasti poseduje određenu informaciju besplatno. Zakon je izričit i u pogledu toga da je uvid u dokument koji sadrži traženu informaciju takođe besplatan. Za izradu i dostavljanje kopije dokumenta predviđena je obaveza plaćanja naknade nužnih troškova. Organ vlasti može odlučiti da tražioca informacije oslobodi plaćanja nužnih troškova ako  visina ne prelazi iznos od 50,00 dinara, a posebno u slučaju dostavljanja kraćih dokumenata putem elektronske pošte ili telefaksa. Više o ovoj temi saznajte ovde:"

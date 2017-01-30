@@ -1,0 +1,43 @@
+<% # TODO: Cache for 5 minutes %>
+  <div id="frontpage_splash">
+<div id="frontpage_right_to_know">
+        <%= render :partial => 'frontpage_intro_sentence'  %>
+      </div>
+
+    <div id="left_column" class="frontpage_left_column">
+      <%= render :partial => "frontpage_new_request" %>
+    </div>
+<div id="middle_column">
+      <%= render :partial => "frontpage_about_column" %>
+    </div>
+
+    <div id="right_column">
+      <div id="frontpage_search_box">
+        <%= render :partial => "frontpage_search_box" %>
+      </div>
+   
+    </div>
+    <div style="clear:both"></div>
+  </div>
+  <div id="frontpage_examples">
+      <style type="text/css">
+  .frontpage-banner-link{
+        padding-left: 19px;
+        margin-top: 20px!important;
+  }
+  .frontpage-banner-link img{
+
+        margin-top: 20px!important;
+  }
+  </style>
+
+  <div style="background-color: white; height: 500px; width:420px;display: inline-block;">
+
+  <a class="frontpage-banner-link" href="http://www.uns.org.rs/"><img src="/images/uns-logo.png"></a>
+  <a class="frontpage-banner-link" href="http://www.cins.rs/srpski"><img src="/images/cins-logo.png"></a>
+  <a class="frontpage-banner-link" href="http://www.nuns.rs/"><img src="/images/nuns-logo.gif"></a>
+
+  </div>
+      <%= render :partial => "frontpage_bodies_list" %>
+      <%= render :partial => "frontpage_requests_list" %>
+  </div>

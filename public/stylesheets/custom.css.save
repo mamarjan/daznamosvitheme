@@ -1,0 +1,355 @@
+@import url(http://fonts.googleapis.com/css?family=Arvo:400,700,400italic,700italic);
+body {
+color:#2b3786;
+/*font-family:Arial, sans-serif;*/
+font-family: 'Arvo', serif;
+}
+
+#banner {
+background-repeat:no-repeat;
+background-position:center top;
+background-color:white;
+/*background-color:#F0F0F0;
+background:url(/images/stripes.png);*/
+}
+a#logo img{
+width:150px;
+margin-left: -45px;
+margin-top: -30px;
+}
+#navigation_search input#navigation_search_button
+{
+background:url(../images/search-button-new.png) no-repeat center center!important;
+}
+#frontpage_right_to_know{
+display:inline-block;
+text-align:center!important;
+color:white;
+}
+
+#topnav {
+font-family:'Arvo', serif;
+top: 124px!important;
+}
+
+#topnav li a,#topnav li a:visited {
+color:#ADADAD;
+}
+
+#topnav li a:hover {
+color:#2b3786;
+}
+
+#topnav ul li   {
+background-color:#e9e9f5;
+}
+#topnav ul li.selected a{
+background-color:#e9e9f5;
+color:#e50000!important;
+}
+#topnav ul li.selected{
+background-color:#e9e9f5;
+}
+#topnav ul li a {
+color:#2b3786!important;
+font-weight:bold;
+font-family: 'Arvo', serif;
+font-size: 15px;
+}
+
+#logged_in_bar a {
+color:#2b3786!important;
+}
+
+#logged_in_bar a,#logged_in_bar a:visited {
+color:#92B3FF;
+}
+#user_locale_switcher a {
+color:#2b3786!important;
+}
+#user_locale_switcher a.btn.disabled {
+color:#e50000!important;
+}
+
+
+h1,h2,h3 {
+ /*font-family:Trebuchet, Trebuchet MS, Helvetica, sans-serif;
+ color:#555;*/
+color:#2b3786;
+font-family: 'Arvo', serif;
+}
+
+h1 {
+color:#93278F;
+font-size:42px;
+font-family:'DeliciousBold', Arial, sans-serif;
+color:#2b3786;
+font-family: 'Arvo', serif;
+}
+
+h2 {
+font-size:1.4em;
+color:#2b3786;
+font-family: 'Arvo', serif;
+}
+
+
+h2,dt {
+color:#93278F;
+font-family:'DeliciousBold', Arial, sans-serif;
+font-weight:400;
+color:#2b3786;
+font-family: 'Arvo', serif;
+}
+
+h3 {
+color:#6B3C6A;
+font-family:'DeliciousRoman', Arial, sans-serif;
+font-weight:400;
+color:#2b3786;
+font-family: 'Arvo', serif;
+}
+
+a {
+color:#93278F;
+color:#2b3786;
+font-family: 'Arvo', serif;
+}
+
+p.subtitle {
+font-family:'DeliciousRoman';
+color:#6B3C7F;
+color:#2b3786;
+font-family: 'Arvo', serif;
+}
+
+.request_listing span.head a,.user_listing span.head a,.body_listing span.head a {
+color:#6B3C6A;
+font-family:'DeliciousRoman', Arial, sans-serif;
+font-weight:400;
+}
+
+.request_listing span.desc {
+background:url(/images/quote-marks.png) no-repeat;
+color:#444;
+}
+
+.feed_link a,.act_link a,#header_right > a {
+color:#6B3C6A;
+}
+
+#request_form label,label.form_label,span#to_public_body {
+color:#6B3C6A;
+}
+
+span#to_public_body {
+font-family:'DeliciousBold', Arial, sans-serif;
+}
+
+#middle_strip {
+color:#93278F;
+}
+
+#stepwise_make_request {
+background-color:#d0d0d0;
+background:url(/images/stripes.png);
+border:1px solid #DEBEDD;
+font-family:'DeliciousRoman', Arial, sans-serif;
+color:#6B3C6A;
+}
+
+div.comment_in_request {
+background:url(/images/stripes-70-light2.png);
+border-color:#5F5F5F;
+border-style:dotted;
+border-width:1px;
+}
+
+#request_form label,label.form_label {
+font-family:'DeliciousRoman', Arial, sans-serif;
+}
+
+#navigation_search input[type=text] {
+ background-color: #e9e9f5;
+ border-color: #e9e9f5;
+}
+
+
+form input[type=submit],a.link_button_green,a.link_button_green_large {
+font-family:'DeliciousRoman', Arial, sans-serif;
+}
+
+div.frontpage-box {
+background:url(/images/stripes.png);
+border:1px solid #DEBEDD;
+font-family:'DeliciousRoman', Arial, sans-serif;
+color:#6B3C6A;
+}
+
+
+div.correspondence,div.comment_in_request {
+background:url(/images/stripes-70.png);
+}
+
+div.outgoing.correspondence {
+background:url(/images/stripes-70-light.png);
+}
+
+#frontpage_splash {
+background:url(../images/splash-back2.png) no-repeat ;
+background-size:875px 375px;
+color:white;
+}
+
+#frontpage_splash h1 {
+font-family:'DeliciousRoman', Arial, sans-serif;
+font-size:39px;
+color:white;
+font-weight:400;
+margin:0 0 20px;
+}
+
+#frontpage_splash h1 strong {
+font-family:'DeliciousHeavyRegular', Arial, sans-serif;
+font-size:54px;
+color:#93278F;
+font-weight:400;
+color:white;
+font-family: 'Arvo', serif;
+}
+
+#frontpage_splash h1 span {
+font-family:Georgia;
+font-style:italic;
+font-weight:400;
+font-size:25px;
+color:#6B3C6A;
+color:white;
+font-family: 'Arvo', serif;
+}
+
+#frontpage_splash h2 {
+font-size:26px;
+font-weight:400;
+color:#6B3C6A;
+font-family:'DeliciousRoman', Arial, sans-serif;
+color:white;
+font-family: 'Arvo', serif;
+}
+
+#frontpage_splash h2 strong {
+font-size:31px;
+color:#93278F;
+font-family:'DeliciousBold', Arial, sans-serif;
+color:white;
+font-family: 'Arvo', serif;
+}
+
+#frontpage_splash h2 span {
+color:#6B3C6A;
+font-style:italic;
+font-size:19px;
+font-family:Georgia;
+color:white;
+font-family: 'Arvo', serif;
+}
+#frontpage_splash #left_column h1{
+font-size:30px;
+}
+#frontpage_splash #left_column h1 strong{
+font-size:30px;
+}
+#left_column{
+width:300px!important;
+text-align:center;
+margin-top:0!important;
+}
+#middle-column{
+width:290px;
+text-align:center;
+float:left;
+display:inline-block;
+}
+
+
+#ui-datepicker-div.ui-widget {
+font-family:Arial, sans-serif;
+color:#93278F;
+color:white;
+font-family: 'Arvo', serif;
+}
+
+#ui-datepicker-div .ui-datepicker-header,#ui-datepicker-div .ui-widget-header {
+color:#93278F;
+font-family:'DeliciousRoman';
+}
+
+#ui-datepicker-div .ui-state-default:hover {
+background:#DEB4D8;
+color:#FFF;
+}
+
+#ui-datepicker-div .ui-state-active {
+background:#D093C7;
+color:#FFF;
+}
+
+#other-country-notice {
+background:#93278F;
+color:#FFF;
+}
+
+p.public-body-name-prefix {
+color:#DEB4D8;
+}
+
+#other-country-notice a {
+color:#FFF;
+}
+
+
+#link_box {
+position:absolute;
+text-align:left;
+background-color:#FFF;
+z-index:999;
+opacity:0.9px;
+border-radius:6px;
+-moz-border-radius:6px;
+border:1px solid #93278F;
+display:none;
+padding:5px;
+}
+
+#link_box .close-button {
+background-color:#93278F;
+margin-left:15px;
+padding:0;
+}
+
+div.correspondence p.preview_subject {
+font-family:'DeliciousRoman';
+color:#6B3C7F;
+}
+
+div.correspondence p.preview_subject strong {
+color:#6B3C7F;
+}
+
+div.controller_help h1 a,#logged_in_bar a,#logged_in_bar a:visited,#stepwise_make_request strong {
+color:#93278F;
+}
+
+
+body.front {
+background:url(../images/front-back-new2.png) no-repeat 0 163px;
+background-size: 100% 375px;
+}
+
+.request_listing span.desc {
+background:url(../images/quote-marks.png) no-repeat;
+}
+
+#frontpage_examples .excerpt {
+background:url(../images/quote-marks.png) no-repeat;
+}
