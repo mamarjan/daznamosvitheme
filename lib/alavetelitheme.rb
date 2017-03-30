@@ -41,13 +41,5 @@ $alaveteli_route_extensions << 'custom-routes.rb'
   Rails.application.config.assets.paths.unshift theme_asset_path
 end
 
-Rails.application.config.assets.precompile += ["custom-dzs.css",
-                                               "uns-logo.png",
-                                               "front-back-new2.png",
-                                               "search-button-new.png",
-                                               "splash-back2.png",
-                                               "quote-marks.png",
-                                               "facebook.png",
-                                               "zi.png"
-]
+Rails.application.config.assets.precompile += %w(*.png *.jpg *.jpeg *.gif)
 
