@@ -73,9 +73,10 @@
     <% end %>
 
     <p class="form_note">
-   <%= _("We can only help you with <strong>technical problems</strong>, or questions about Freedom of Information.") %>
+      <%= _("We can only help you with <strong>technical problems</strong>, or questions about Freedom of Information.") %>
     </P>
 
+    <%= f.label :comment, 'Do not fill in this field' %> <%= f.text_field :comment %>
 
     <div class="form_button">
         <%= hidden_field_tag(:submitted_contact_form, 1) %>
