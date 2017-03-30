@@ -10,7 +10,7 @@ background-repeat:no-repeat;
 background-position:center top;
 background-color:white;
 /*background-color:#F0F0F0;
-background:url(/images/stripes.png);*/
+background:url(/assets/stripes.png);*/
 }
 a#logo img{
 width:150px;
@@ -19,7 +19,7 @@ margin-top: -30px;
 }
 #navigation_search input#navigation_search_button
 {
-background:url(../images/search-button-new.png) no-repeat center center!important;
+background:url(/assets/search-button-new.png) no-repeat center center!important;
 }
 #frontpage_splash a.link_button_green_large{
 color:#2b3786;
@@ -150,7 +150,7 @@ font-weight:400;
 }
 
 .request_listing span.desc {
-background:url(/images/quote-marks.png) no-repeat;
+background:url(/assets/quote-marks.png) no-repeat;
 color:#444;
 }
 
@@ -172,14 +172,14 @@ color:#93278F;
 
 #stepwise_make_request {
 background-color:#d0d0d0;
-background:url(/images/stripes.png);
+background:url(/assets/stripes.png);
 border:1px solid #DEBEDD;
 font-family:'DeliciousRoman', Arial, sans-serif;
 color:#6B3C6A;
 }
 
 div.comment_in_request {
-background:url(/images/stripes-70-light2.png);
+background:url(/assets/stripes-70-light2.png);
 border-color:#5F5F5F;
 border-style:dotted;
 border-width:1px;
@@ -200,7 +200,7 @@ font-family:'DeliciousRoman', Arial, sans-serif;
 }
 
 div.frontpage-box {
-background:url(/images/stripes.png);
+background:url(/assets/stripes.png);
 border:1px solid #DEBEDD;
 font-family:'DeliciousRoman', Arial, sans-serif;
 color:#6B3C6A;
@@ -208,15 +208,15 @@ color:#6B3C6A;
 
 
 div.correspondence,div.comment_in_request {
-background:url(/images/stripes-70.png);
+background:url(/assets/stripes-70.png);
 }
 
 div.outgoing.correspondence {
-background:url(/images/stripes-70-light.png);
+background:url(/assets/stripes-70-light.png);
 }
 
 #frontpage_splash {
-background:url(../images/splash-back2.png) no-repeat ;
+background:url(../assets/splash-back2.png) no-repeat ;
 background-size:875px 375px;
 color:white;
 }
@@ -388,16 +388,16 @@ color:#93278F;
 
 
 body.front {
-background:url(../images/front-back-new2.png) no-repeat 0 163px;
+background:url(/assets/front-back-new2.png) no-repeat 0 163px;
 background-size: 100% 375px;
 }
 
 .request_listing span.desc {
-background:url(../images/quote-marks.png) no-repeat;
+background:url(/assets/quote-marks.png) no-repeat;
 }
 
 #frontpage_examples .excerpt {
-background:url(../images/quote-marks.png) no-repeat;
+background:url(/assets/quote-marks.png) no-repeat;
 }
 #authority_preview{
 margin-top:100px!important;
