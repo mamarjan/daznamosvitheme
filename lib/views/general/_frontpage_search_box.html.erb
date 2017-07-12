@@ -2,7 +2,7 @@
   <%= _("Search over<br/>
   <strong>{{number_of_requests}} requests</strong> <span>and</span><br/>
   <strong>{{number_of_authorities}} authorities</strong>",
-  :number_of_requests => InfoRequest.visible.count, :number_of_authorities => PublicBody.visible.count) %>
+  :number_of_requests => InfoRequest.is_public.count, :number_of_authorities => PublicBody.visible.count) %>
 </h2>
 <form id="search_form" method="post" action="<%= search_redirect_path %>">
   <div>
